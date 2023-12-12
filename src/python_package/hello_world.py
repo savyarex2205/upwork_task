@@ -28,3 +28,7 @@ def test() -> str:
 def test1() -> int:
     print("1234")
     return 1
+
+def new_feature() -> str:
+    print("New Features Implemented.....")
+    return "New Feature Implementation done"
