@@ -25,3 +25,6 @@ def test() -> str:
     return "Test 1"
 
 ## EXAMPLE FEATURE CHANGE
+def test1() -> int:
+    print("1234")
+    return 1
